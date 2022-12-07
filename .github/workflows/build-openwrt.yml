@@ -24,8 +24,8 @@ env:
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: RAYCLOUD/.lite.config
-  P1_SH: .patch/p1.sh
-  P2_SH: .patch/p2.sh
+  P1_SH: patch/p1.sh
+  P2_SH: patch/p2.sh
   CU_SH: RAYCLOUD/customize.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: false
